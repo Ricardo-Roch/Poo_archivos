@@ -98,4 +98,4 @@ Clase para generar un horario mas avanzado: **GenAvanz**
 
 ---
 
-![Grafica UML:](Diagrama PIA (notación UML) (1))
+![Grafica UML:](Diagrama)
