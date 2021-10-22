@@ -87,5 +87,5 @@ Clase para generar un horario mas avanzado: **GenAvanz** -Se elimino esta clase-
 - bd_horarios() // *guarda los horarios realizados*
 
 ----
-
+[![Alt text](https://youtu.be/VORf3GRMREU)
 ![Grafica UML:](diag.png)
