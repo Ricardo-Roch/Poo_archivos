@@ -86,6 +86,6 @@ Clase para generar un horario mas avanzado: **GenAvanz** -Se elimino esta clase-
 - bd_mates() // *guarda las materias*
 - bd_horarios() // *guarda los horarios realizados*
 
----
+----
 
-![Grafica UML:](Diagrama ER de DBMS (notación UML) (1).png)
+![Grafica UML:](Diagrama.png)
