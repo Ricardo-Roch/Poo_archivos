@@ -1,0 +1,3 @@
+ricardo		;fisica	;90	;123456		;nose
+dany		;Etica	;20	;234		;pika
+luis		;mate	;34	;34		;cosa
