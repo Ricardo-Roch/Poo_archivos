@@ -107,4 +107,6 @@ Clase para generar un horario mas avanzado: **GenAvanz** -Se elimino esta clase-
 ### Desmostracion Del Proyecto
 https://youtu.be/VORf3GRMREU
 ----
+ ---
+### Diagrama UML
 ![Grafica UML:](Documentos/diag.png)
