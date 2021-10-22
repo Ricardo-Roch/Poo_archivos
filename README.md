@@ -14,10 +14,15 @@ Una secundaria tiene problemas para generar y administrar los horarios, pues muc
 ___
 ### Principales cambios
 -Se redujieron el numero de clases y a algunas se les cambio el nombre-
+
 -Se eliminaron parametros tales como las de las clases materias pues no tenian mucho sentido-
+
 -Se modifico la grafica UML y ahora es mas coherente-
+
 -Se utilizaron mas metodos de los esperados-
+
 -Se implementaron arreglos y se vinculo con archivos de txt-
+
 -Se hizo una gestion mas de lo esperado con el vinculo con los archivos-
 ___
 ### Cualidades A mejorar
