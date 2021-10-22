@@ -10,6 +10,21 @@ ___
 Una secundaria tiene problemas para generar y administrar los horarios, pues muchos maestros no tienen facilidad de horario y siempre tiene problemas de empalmamiento de horarios, ademas se les dificulta imprimir el horario.  
 
 **Solucion:** Realizar una interfaz grafica donde el usuario pueda almacenar los profesores y las materias ademas de condicionar los horarios de los profesores que no tengan disponibilidad y generar aleaotoriamente el horario complete e imprimirlo
+
+___
+### Principales cambios
+-Se redujieron el numero de clases y a algunas se les cambio el nombre-
+-Se eliminaron parametros tales como las de las clases materias pues no tenian mucho sentido-
+-Se modifico la grafica UML y ahora es mas coherente-
+-Se utilizaron mas metodos de los esperados-
+-Se implementaron arreglos y se vinculo con archivos de txt-
+-Se hizo una gestion mas de lo esperado con el vinculo con los archivos-
+___
+### Cualidades A mejorar
+*Se pude optimizar a un mas el programa
+*Se pueeden implementar funciones mas utiles
+
+
 ___
 ### Entidades:
 **Primeras Clases Propuestas Para La Aplicacion**    
@@ -75,16 +90,13 @@ Clase para generar un horario mas avanzado: **GenAvanz** -Se elimino esta clase-
 * Buscar_profes() //*Busca los datos de los maestros *
 
 **GenAvanz** 
-
+//En progreso
 * Gen() // *Imprime horario especifico solo para gerarquia mas alta*
 
 ---
 ### Funcionalidades
 **Funcionalidades Propuestas Para La Aplicacion** 
-- Hora() // *Imprime hora*
-- bd_alumns() // *guarda los alumnos*
-- bd_mates() // *guarda las materias*
-- bd_horarios() // *guarda los horarios realizados*
+- ArrayList<Profes>();
 
 ---
 ### Desmostracion Del Proyecto
