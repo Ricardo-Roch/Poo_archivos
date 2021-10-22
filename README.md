@@ -18,17 +18,17 @@ Clase De La Funcion Principal: **Inicio**
 
 Clase Respecto a la administrasion de usuarios: **Usuarios**
 
-Clase para ingresar a profesores: **Profes**
+Clase para ingresar a profesores: **Profes** 
 
-Calse extendida de profes para verificacions y disp de horarios: **OrgaProfes**
+Calse extendida de profes para verificacions y disp de horarios: **OrgaProfes** -Se modifico a Gestprofes-
 
 Clase para ingresar materias: **Materias**
 
-Clase extendida de materias para añadir descripsiones y horarios: **OrgMaterias**
+Clase extendida de materias para añadir descripsiones y horarios: **OrgMaterias** -Se modifico a GestUsuarios-
 
 Clase para generar el horario: **Generador**
 
-Clase para generar un horario mas avanzado: **GenAvanz** 
+Clase para generar un horario mas avanzado: **GenAvanz** -Se elimino esta clase-
 
 ---
 ### Atributos:
@@ -40,49 +40,39 @@ Clase para generar un horario mas avanzado: **GenAvanz**
 - Nombre
 - Tipo
 - Contraseña
-- Salir  
 
-* valida() //*valida los datos*
+**GestUsuarios:** 
+
+* menu() //*Menu donde se mandan a llamar metodos*
+* IngresarUsArchvios() //*Agrega usuarios a los archivos*
+* AgregarUs() //*solicita los datos de los usuarios *
+* MostrarU() //*Muestra los datos de los usuarios *
+* BuscarUs() //*Busca los datos de los usuarios *
 
 **Profes:**
 - Nombre
+- Materia
 - Edad 
 - Numero
 - Domicilio  
 
-* valida() //*valida los datos*
 
 
-**OrgaProfes:**
-- Asignaturas
-- Horarios  
-* Enl_Mate() //*Enlaza el profe a la materia*
-* Val_Hor() //*Valida los horarios de los profes*
+**GestProfes:**
+* menu() //*Menu donde se mandan a llamar metodos*
+* IngresarProfes() //*Agrega maestros a los archivos*
+* AgregarUs() //*solicita los datos de los maestros *
+* MostrarU() //*Muestra los datos de los maestros *
+* BuscarUs() //*Busca los datos de los maestros *
 
 
-**Materias:**
-- Nombre
-- Descripsion 
-- Plan   
-
-* Valida() //*valida los datos de las materias*
-
-
-**OrgMaterias:**
-- Materia
-- Horario
-- Oportunidad
-- Grupo
-- Alumnos
-
-* Val_Gpo() // *Valida un numero minimo de alumnos para que se pueda hacer el gpo*
-* Gpos_Esp() // *Asigna grupos de oportunidad !=1 *
-* Asig_Gpo() // *Asigna la materia a los grupos*
 
 **Generador:**
-- Au_Ma // *Indica si el horario se realizara automatico o manual*
-
-* Gen() // *Imprime el Horario*
+* menu() //*Menu donde se mandan a llamar metodos*
+* IngresarArchivos() //*Agrega los horarios a los archivos*
+* AgregarHorario() //*solicita los datos de los maestros *
+* Mostrar_hor() //*Muestra el horario de los maestros *
+* Buscar_profes() //*Busca los datos de los maestros *
 
 **GenAvanz** 
 
