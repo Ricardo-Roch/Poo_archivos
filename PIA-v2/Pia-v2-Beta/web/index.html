@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>  
+    <head>  
+        <meta charset="ISO-8859-1">  
+
+
+        <title>Generador De Horarios-Inicio</title>  
+    </head>  
+    <body bgcolor="FFBFB2">  
+        <a href="ViewServlet">Ver Lista De usuarios   </a><br>
+        <a  href=" Profes.html">Agregar Maestros  </a><br>
+        <a href=" GenHorario.html">Generar Horario  </a>
+
+
+
+        <div align="center"> 
+
+            <h1>Registre Su Usuario</h1>  
+            <form action="SaveServlet" method="post">  
+                <table>  
+
+                    <tr><td>Nombre:</td><td><input type="text" name="nombre"/></td></tr>  
+                    <tr><td>Contrasena:</td><td><input type="password" name="contra"/></td></tr>  
+                    <tr><td>Tipo de Empleado:</td><td>
+                            <select name="tipo" style="width:150px">  
+                                <option>Admin</option>  
+                                <option>Usuario</option>  
+
+                            </select>  
+                        </td></tr>  
+
+                    <tr><td colspan="2"><input type="submit" value="Guardar Usuario"/></td></tr>  
+                    </div>
+                </table>  
+            </form>  
+
+            <br/>  
+
+    </body>  
+</html>  
