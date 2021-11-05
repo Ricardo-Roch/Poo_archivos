@@ -2,9 +2,13 @@
 ___
 ___
 
- ### Datos del alumno
-* **Nombre:** Rocha Moreno Ricardo   
-* **Matricula:** 2076182
+ ### Integrantes 
+* **Nombres:** 
+
+Ricardo Rocha Moreno  
+Osmar Eliud Fortuna Hernandez
+* **Matricula:** 
+2076182
 ___
 ### Introduccion
 Una secundaria tiene problemas para generar y administrar los horarios, pues muchos maestros no tienen facilidad de horario y siempre tiene problemas de empalmamiento de horarios, ademas se les dificulta imprimir el horario.  
