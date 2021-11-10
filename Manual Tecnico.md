@@ -60,7 +60,7 @@ Una secundaria esta teniendo problemas para poder administrar los horarios y pod
 ---
 ---
 ##### Resultados
-Gracias al programa pudimos reducir un 70% de tiempo en la generacion de horarias de la fomra habitual que lo tenia acostumbrado la secundaria y gracais ha ello tenian todos los datos guardados y no tenian riesgo de perder los archivos genereado
+Gracias al programa pudimos reducir un 70% de tiempo en la generacion de horarias de la fomra habitual que lo tenia acostumbrado la secundaria y gracias ha ello tenian todos los datos guardados y no tenian riesgo de perder los archivos genereado
 <p align="center">
   <img src="Documentos/foto6.png">
 </p>
