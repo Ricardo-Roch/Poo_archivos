@@ -3,11 +3,11 @@ ___
 ___
 
  ### Integrantes 
-* **Nombres: ** 
+* Nombres:  
 
 Ricardo Rocha Moreno  
 Osmar Eliud Fortuna Hernandez
-* **Matriculas: ** 
+* Matriculas: 
 
 
 2034216
