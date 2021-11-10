@@ -25,7 +25,7 @@ Una secundaria esta teniendo problemas para poder administrar los horarios y pod
 * Al momento de ejecutar el programa nos solicitara ingresar un usuario y una contraseña las cuales estan guardadas en un archivo de texto
 
 
-![align:center;Menu:](Documentos/foto1.png)
+<span style="display:block;text-align:center">![Men](Documentos/foto1.png)</span>
 * Tenderemos un menu como inicio, en las cuales podremos seleccionar la opcion requerida
 
 * En la primera opcion veremos toda la gestion de usuarios en las cuales podremos agregar y buscar
