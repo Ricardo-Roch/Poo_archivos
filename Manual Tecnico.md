@@ -46,7 +46,7 @@ Una secundaria esta teniendo problemas para poder administrar los horarios y pod
 </p>
 
 * por ultimo esta la opcion de generar horarios, en la cual podremos elejir un horario, y llenar todos los dias, para llenar un dia se solicita el nombre del maestro
-* <p align="center">
+ <p align="center">
   <img src="Documentos/foto5.png">
 </p>
 
