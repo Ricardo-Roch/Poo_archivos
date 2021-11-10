@@ -25,7 +25,7 @@ Una secundaria esta teniendo problemas para poder administrar los horarios y pod
 * Al momento de ejecutar el programa nos solicitara ingresar un usuario y una contraseña las cuales estan guardadas en un archivo de texto
 
 <p align="center">
-  <img width="600" height="200" src="Documentos/foto1.png">
+  <img width="300" height="300" src="Documentos/foto1.png">
 </p>
 
 
