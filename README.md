@@ -3,11 +3,14 @@ ___
 ___
 
  ### Integrantes 
-* **Nombres:** 
+* **Nombres: ** 
 
 Ricardo Rocha Moreno  
 Osmar Eliud Fortuna Hernandez
-* **Matricula:** 
+* **Matriculas: ** 
+
+
+2034216
 2076182
 ___
 ### Introduccion
