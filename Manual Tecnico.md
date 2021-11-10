@@ -49,6 +49,12 @@ Una secundaria esta teniendo problemas para poder administrar los horarios y pod
  <p align="center">
   <img src="Documentos/foto5.png">
 </p>
+* Al momento de integrar el horario elgimos la siguiente distribucion de horas para mayor facilidad
+ <p align="center">
+  <img src="Documentos/foto7.png">
+</p>
+
+
 
 * Todos los datos guardados se podran desplegar en su seccion correspondiente
 ---
