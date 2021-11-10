@@ -1,0 +1,6 @@
+lucy ;fisica ;90 ;123456 ;nose
+dany ;Etica ;20 ;23 ;pika
+luis ;mate ;34 ;34 ;cosa
+daniel ;fisica ;23 ;128121 ;valle
+pepe ;fisica ;30 ;123456789 ;nose#1234
+paco ;BD ;32 ;234524234 ;topo

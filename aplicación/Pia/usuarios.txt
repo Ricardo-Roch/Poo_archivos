@@ -1,0 +1,6 @@
+Ricardo;admin;123
+ricardo;admin;123
+dany;admin;123
+juanito;admin;123
+ñoño;admin;123
+pancho;admin;098

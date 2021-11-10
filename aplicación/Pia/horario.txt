@@ -1,0 +1,13 @@
+dany 			luis 			dany 			luis 			dany 
+Etica 			mate 			Etica 			mate 			Etica 
+h1			h1			h1			h1			h1
+
+luis 			luis 			luis 			luis 			luis 
+mate 			mate 			mate 			mate 			mate 
+h2			h2			h2			h2			h2
+
+
+daniel 			lucy 			paco 			pepe 			luis 
+fisica 			fisica 			BD 			fisica 			mate 
+h3			h3			h3			h3			h3
+
