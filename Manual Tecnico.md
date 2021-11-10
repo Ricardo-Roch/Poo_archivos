@@ -3,12 +3,17 @@ ___
 ___
 
 ### Integrantes
-* **Nombres:**
-Ricardo Rocha Moreno
+* Nombres:  
+
+Ricardo Rocha Moreno  
 Osmar Eliud Fortuna Hernandez
-* **Matricula:**
-20764216
+* Matriculas: 
+
+
 2034216
+
+
+2076182
 ___
 # Manual Tecnico
 ##### Introduccion
