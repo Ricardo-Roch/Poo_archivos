@@ -6,11 +6,11 @@ ___
 * Nombres:  
 
 Ricardo Rocha Moreno  
-Osmar Eliud Fortuna Hernandez
+
 * Matriculas: 
 
 
-2034216
+
 
 
 2076182
